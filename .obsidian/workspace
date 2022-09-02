@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "0b2a6a6e882d11b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c80d1f1d91df5c98",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022-09-02.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e604610833c6ffae",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a84d32f93728904",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dca8bb85c3485f13",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "024463cc68248359",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9472c516a9a2a0a8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "82f2b6f449f3d962",
+    "type": "split",
+    "children": [
+      {
+        "id": "5989d88ab2c4aca5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8cfc33a22eaeb73",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022-09-02.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b6c3875a7937027",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2022-09-02.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8128d8cd190fc5e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "363c91e78053390d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2022-09-02.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c80d1f1d91df5c98",
+  "lastOpenFiles": [
+    "active learning.md",
+    "low-budget-al.md",
+    "active learning bias.md",
+    "2022-09-02.md"
+  ]
+}
