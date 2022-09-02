@@ -14,4 +14,8 @@ VAAL,DFAL这些对抗性方法容易重复选择
 
 半监督学习需要统一分布标注所以难以直接比较，但仍然比较
 
+# method
+
+先用Mocov2作为教师网络以compress的方法以resnet18为backbone自监督训练unlabeled的数据提取特征，以
+
 

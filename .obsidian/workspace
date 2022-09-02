@@ -130,16 +130,9 @@
   },
   "active": "c80d1f1d91df5c98",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "low-budget-al.md",
+    "active learning.md",
     "active learning bias.md",
-    "active learning.md",
-    "2022-09-02.md"
-=======
-    "active learning.md",
     "2022-09-02.md",
-    "low-budget-al.md",
-    "active learning bias.md"
->>>>>>> 48260c86b1c6ce186484d2e85ca273b1aca22acc
+    "low-budget-al.md"
   ]
 }
