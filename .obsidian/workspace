@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-09-03.md",
+            "file": "Class-Balanced Loss Based on Effective Number of Samples.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-09-03.md",
+                "file": "Class-Balanced Loss Based on Effective Number of Samples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-09-03.md",
+                "file": "Class-Balanced Loss Based on Effective Number of Samples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-09-03.md"
+                "file": "Class-Balanced Loss Based on Effective Number of Samples.md"
               }
             }
           }
@@ -130,6 +130,7 @@
   },
   "active": "c80d1f1d91df5c98",
   "lastOpenFiles": [
+    "2022-09-03.md",
     "2022-09-02.md",
     "Pasted image 20220902174147.png",
     "active learning bias.md",
