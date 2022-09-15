@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Class-Balanced Loss Based on Effective Number of Samples.md",
+            "file": "moon river口琴谱.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Class-Balanced Loss Based on Effective Number of Samples.md",
+                "file": "moon river口琴谱.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Class-Balanced Loss Based on Effective Number of Samples.md",
+                "file": "moon river口琴谱.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Class-Balanced Loss Based on Effective Number of Samples.md"
+                "file": "moon river口琴谱.md"
               }
             }
           }
@@ -130,6 +130,7 @@
   },
   "active": "c80d1f1d91df5c98",
   "lastOpenFiles": [
+    "Class-Balanced Loss Based on Effective Number of Samples.md",
     "2022-09-03.md",
     "2022-09-02.md",
     "Pasted image 20220902174147.png",
