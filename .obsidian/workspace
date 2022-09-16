@@ -128,7 +128,23 @@
     "width": 300,
     "collapsed": true
   },
+<<<<<<< HEAD
+  "active": "c80d1f1d91df5c98",
+  "lastOpenFiles": [
+    "Pasted image 20220902174147.png",
+    "moon river口琴谱.md",
+    "low-budget-al.md",
+    "Class-Balanced Loss Based on Effective Number of Samples.md",
+    "active learning bias.md",
+    "active learning.md",
+    "2022-09-02.md",
+    "2022-09-03.md",
+    "Pasted image 20220902180150.png",
+    "Pasted image 20220902175211.png"
+  ]
+=======
   "active": "c0e8bd57ea0bfdd4",
+<<<<<<< HEAD
   "lastOpenFiles": [
     "2022-09-13.md",
     "sorted tasks.md",
@@ -139,4 +155,8 @@
     "moon river口琴谱.md",
     "模态逻辑.md"
   ]
+=======
+  "lastOpenFiles": []
+>>>>>>> 148f425101e23afc76964280c32d784185ba578c
+>>>>>>> refs/remotes/origin/main
 }
