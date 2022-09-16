@@ -7,8 +7,12 @@
         "id": "c0e8bd57ea0bfdd4",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "sorted tasks.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sorted tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sorted tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sorted tasks.md"
+              }
             }
           }
         ]
@@ -121,5 +129,14 @@
     "collapsed": true
   },
   "active": "c0e8bd57ea0bfdd4",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "2022-09-13.md",
+    "sorted tasks.md",
+    "Pasted image 20220902174147.png",
+    "Pasted image 20220902174244.png",
+    "Technology.md",
+    "Pasted image 20220902180150.png",
+    "moon river口琴谱.md",
+    "模态逻辑.md"
+  ]
 }
