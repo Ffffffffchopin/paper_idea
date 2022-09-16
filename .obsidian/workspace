@@ -7,9 +7,17 @@
         "id": "c80d1f1d91df5c98",
         "type": "leaf",
         "state": {
+<<<<<<< HEAD
           "type": "image",
           "state": {
             "file": "Pasted image 20220902180150.png"
+=======
+          "type": "markdown",
+          "state": {
+            "file": "sorted tasks.md",
+            "mode": "source",
+            "source": false
+>>>>>>> refs/remotes/origin/main
           }
         }
       }
@@ -75,7 +83,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Pasted image 20220902180150.png",
+=======
+                "file": "sorted tasks.md",
+>>>>>>> refs/remotes/origin/main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +104,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Pasted image 20220902180150.png",
+=======
+                "file": "sorted tasks.md",
+>>>>>>> refs/remotes/origin/main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +131,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Pasted image 20220902180150.png"
+=======
+                "file": "sorted tasks.md"
+>>>>>>> refs/remotes/origin/main
               }
             }
           }
@@ -139,4 +159,24 @@
     "2022-09-02.md",
     "2022-09-03.md"
   ]
+<<<<<<< HEAD
+=======
+=======
+  "active": "c0e8bd57ea0bfdd4",
+<<<<<<< HEAD
+  "lastOpenFiles": [
+    "2022-09-13.md",
+    "sorted tasks.md",
+    "Pasted image 20220902174147.png",
+    "Pasted image 20220902174244.png",
+    "Technology.md",
+    "Pasted image 20220902180150.png",
+    "moon river口琴谱.md",
+    "模态逻辑.md"
+  ]
+=======
+  "lastOpenFiles": []
+>>>>>>> 148f425101e23afc76964280c32d784185ba578c
+>>>>>>> refs/remotes/origin/main
+>>>>>>> refs/remotes/origin/main
 }
