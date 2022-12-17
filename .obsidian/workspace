@@ -1,23 +1,17 @@
 {
   "main": {
-    "id": "0b2a6a6e882d11b6",
+    "id": "18db95eebe5f5fc5",
     "type": "split",
     "children": [
       {
-        "id": "c80d1f1d91df5c98",
+        "id": "5ddd8b41bb3c4afc",
         "type": "leaf",
         "state": {
-<<<<<<< HEAD
-          "type": "image",
-          "state": {
-            "file": "Pasted image 20220902180150.png"
-=======
           "type": "markdown",
           "state": {
-            "file": "sorted tasks.md",
+            "file": "active learning.md",
             "mode": "source",
             "source": false
->>>>>>> refs/remotes/origin/main
           }
         }
       }
@@ -25,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e604610833c6ffae",
+    "id": "efed547c6939d37c",
     "type": "split",
     "children": [
       {
-        "id": "8a84d32f93728904",
+        "id": "b3634592f6a026b8",
         "type": "tabs",
         "children": [
           {
-            "id": "dca8bb85c3485f13",
+            "id": "957c583b2f06586c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -41,7 +35,7 @@
             }
           },
           {
-            "id": "024463cc68248359",
+            "id": "899362987051413f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,7 +50,7 @@
             }
           },
           {
-            "id": "9472c516a9a2a0a8",
+            "id": "b5ffeffbca368b91",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -70,24 +64,20 @@
     "width": 300
   },
   "right": {
-    "id": "82f2b6f449f3d962",
+    "id": "900678db69709863",
     "type": "split",
     "children": [
       {
-        "id": "5989d88ab2c4aca5",
+        "id": "5ae04344017210fe",
         "type": "tabs",
         "children": [
           {
-            "id": "f8cfc33a22eaeb73",
+            "id": "635e8c8315135fb9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Pasted image 20220902180150.png",
-=======
-                "file": "sorted tasks.md",
->>>>>>> refs/remotes/origin/main
+                "file": "active learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,23 +89,19 @@
             }
           },
           {
-            "id": "9b6c3875a7937027",
+            "id": "3c2a6200ae424594",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Pasted image 20220902180150.png",
-=======
-                "file": "sorted tasks.md",
->>>>>>> refs/remotes/origin/main
+                "file": "active learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8128d8cd190fc5e3",
+            "id": "1efe4f76ee25eed3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -126,16 +112,12 @@
             }
           },
           {
-            "id": "363c91e78053390d",
+            "id": "0f9f09531804c415",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Pasted image 20220902180150.png"
-=======
-                "file": "sorted tasks.md"
->>>>>>> refs/remotes/origin/main
+                "file": "active learning.md"
               }
             }
           }
@@ -146,37 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c80d1f1d91df5c98",
+  "active": "5ddd8b41bb3c4afc",
   "lastOpenFiles": [
     "2022-09-13.md",
-    "low-budget-al.md",
-    "Class-Balanced Loss Based on Effective Number of Samples.md",
-    "active learning bias.md",
-    "Low-Regret Active Learning.md",
-    "active learning.md",
-    "moon river口琴谱.md",
-    "Pasted image 20220902174147.png",
+    "2022-11-14.md",
+    "2022-09-03.md",
     "2022-09-02.md",
-    "2022-09-03.md"
-  ]
-<<<<<<< HEAD
-=======
-=======
-  "active": "c0e8bd57ea0bfdd4",
-<<<<<<< HEAD
-  "lastOpenFiles": [
-    "2022-09-13.md",
     "sorted tasks.md",
-    "Pasted image 20220902174147.png",
-    "Pasted image 20220902174244.png",
     "Technology.md",
+    "Plan.md",
     "Pasted image 20220902180150.png",
-    "moon river口琴谱.md",
-    "模态逻辑.md"
+    "Pasted image 20220902175211.png",
+    "Pasted image 20220902174244.png"
   ]
-=======
-  "lastOpenFiles": []
->>>>>>> 148f425101e23afc76964280c32d784185ba578c
->>>>>>> refs/remotes/origin/main
->>>>>>> refs/remotes/origin/main
 }
