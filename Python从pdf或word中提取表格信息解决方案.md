@@ -42,6 +42,15 @@ cv.close()
 
 我们大体的思路是用python-docx一行行地读取表格，在每一行的cell中依次寻找图片和汉字，如果找不到就跳过。然后为每一个中文对应的标签的建立目录放入图片，图片的文件名按照标签名加索引的形式
 
+最后我们的目录结构大概是
+
+data
+	-安稳
+		-安稳0_.png
+		-安稳1_.png
+	-肮脏
+		-肮脏0_.png
+
 接下来我们 开始正式处理word中的表格数据，首先引入需要的第三方模块
 
 ```python
@@ -104,4 +113,22 @@ word_path="table.docx"
           cells=table.rows[_].cells
 ```
 
-我们开始循环，先创建一个tqdm对象打开（566是我运行完以后总的标签数量），循环Documents对象里的每一个table
+我们开始循环，先创建一个tqdm对象打开（566是我运行完以后总的标签数量），循环Documents对象里的每一个table，再循环table对象中的rows（从第二行开始循环是因为第一行是表头）然后初始化我们存每一行的图片所用的字符串label，和列表images，然后提取出row中的cells
+```python
+for cell in cells:
+            #判断cell中有没有中文
+            if is_Chinese.match(cell.text):
+                label=cell.text.replace("\n","").replace(" ","")
+                break
+            #判断cell中有没有图片
+            img=cell.paragraphs[0]._element.xpath('.//pic:pic')
+            if img:
+              images.append(img)
+          #如果没有标签或者没有图片就跳过
+          if label=="":
+            continue
+          if images==[]:
+            continue
+```
+
+接着我们开始cell的循环，先判断一下cell.text中有没有中文，有的话就去除换行空格这些特殊字符存在label里，然后用cell里的paragraph对象的xpath判断有没有图片（图片的部分是我从网上查来的暂时还没搞清），如果有的话也存进img变量里。判断label和image都存在才继续。
