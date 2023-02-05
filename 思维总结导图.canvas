@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"628568ce1269957e","x":-370,"y":-84,"width":353,"height":87,"type":"text","text":"# 间隔一段时间再重复\n"},
+		{"id":"0c7011b39e8237af","x":-184,"y":234,"width":580,"height":98,"type":"text","text":"# 重复思考阅读理解/先粗略看再仔细看"},
+		{"id":"d863588deb713b26","x":69,"y":23,"width":460,"height":88,"type":"text","text":"# 从目的出发寻找最有效的方法"},
+		{"id":"faf34c13288f166a","x":-587,"y":63,"width":320,"height":97,"type":"text","text":"# 在纸上写下了罗列"},
+		{"id":"98021e6cd74139ce","x":-705,"y":-431,"width":351,"height":93,"type":"text","text":"# 根据过去的经验决定"},
+		{"id":"6c6de1c100a04809","x":69,"y":-248,"width":460,"height":93,"type":"text","text":"# 先收集信息再稍后统一做决定"},
+		{"id":"820dc62079ddfbbf","x":69,"y":-384,"width":118,"height":73,"type":"text","text":"# 戒色"},
+		{"id":"d170e569c804e463","x":-756,"y":-155,"width":329,"height":93,"type":"text","text":"# 用图形化的方式思考"},
+		{"id":"1d2e22a647a364b2","x":-666,"y":283,"width":312,"height":93,"type":"text","text":"# 耐住性子慢慢阅读"},
+		{"id":"ae642479454af6c4","x":-334,"y":452,"width":633,"height":97,"type":"text","text":"# 用语言思考/费曼学习法，希望别人看懂"},
+		{"id":"9e063d729cc6920d","x":475,"y":160,"width":253,"height":92,"type":"text","text":"# 走路躺着思考"},
+		{"id":"eb3dea0eab243fe5","x":-344,"y":-297,"width":269,"height":96,"type":"text","text":"# 跳跃式的思考"},
+		{"id":"e9033738c2ce96f7","x":-202,"y":131,"width":185,"height":75,"type":"text","text":"# 分类严谨"},
+		{"id":"9915cc07d5020a45","x":177,"y":-109,"width":244,"height":94,"type":"text","text":"# 发现相同规律"}
+	],
+	"edges":[
+		{"id":"629350667710c0eb","fromNode":"1d2e22a647a364b2","fromSide":"right","toNode":"0c7011b39e8237af","toSide":"left"}
+	]
+}
