@@ -98,6 +98,8 @@ class Solution:
 定义的意思是用三元表达式来防止空树
 这或许就是js的undefined和null的区别吧
 
+undefined表示未定义，在这里表示一种行为，而left和right属性未来要表示对象所以应该用三元表达式进行区分
+
 ```javascript
 /**
  * Definition for a binary tree node.
